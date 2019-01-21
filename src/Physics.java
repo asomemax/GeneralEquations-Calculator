@@ -6,6 +6,7 @@ public class Physics {
 	static String kepTime = "keplersPeriodTime";
 	static String kepMass = "keplersPeriodMass";
 	static String chargedRod = "chargedRod";
+	static String kinematicTime = "kineMaticTime";
 	static String[] eqlist = { kepTime, kepMass, chargedRod };
 	static double ans;
 //Constants
