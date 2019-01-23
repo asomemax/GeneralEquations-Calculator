@@ -25,6 +25,9 @@ public class Physics {
 		if (chargedRod.toUpperCase().contains(eqName)) {
 			PhysicsEquationHolder.chargedRod();
 		}
+		if(kinematicTime.toUpperCase().contains(eqName)) {
+			PhysicsEquationHolder.kinematicTime();
+		}
 	}
 //Start of program
 

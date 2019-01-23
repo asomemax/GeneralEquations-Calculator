@@ -48,4 +48,9 @@ public class PhysicsEquationHolder {
 	private static double chargedRodCalc(double d, double l, double cR, double cP) {
 		return (cR * cP * d) / (Math.pow(d * d + l * l, 1.5));
 	}
+
+	public static void kinematicTime() {
+		// TODO Auto-generated method stub
+		
+	}
 }
